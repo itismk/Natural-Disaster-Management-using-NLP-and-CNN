@@ -1,0 +1,1 @@
+# Natural-Disaster-Management-using-NLP-and-CNN
